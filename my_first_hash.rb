@@ -44,4 +44,3 @@ shipping_manifest["gun powder"] = 4
 
 end
 binding.pry
-print shipping_manifest["oil paintings"]
